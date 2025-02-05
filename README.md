@@ -10,7 +10,7 @@ Projeto criado como teste para a vaga de **Flutter Developer**.
 ✅ **Salvamento de dados locais** com `sqflite`  
 ✅ **Criação de constantes** para padrões de cores, tamanhos de fonte e espaçamentos  
 ✅ **Testes unitários** de `datasource` e `repository`  
-✅ **Internacionalização** (Inglês e Português) *(Padrão: Inglês. Português não implementado devido ao escopo)*  
+✅ **Internacionalização** (Inglês e Português) *(Padrão: Inglês. Português não implementado devido ao escopo não ter seleção de idioma)*  
 ✅ **Tratamento básico de erros** e retorno ao usuário  
 ✅ **Criação de Splash Screen**  
 ✅ **Criação de ícones do aplicativo**  
