@@ -48,14 +48,13 @@ flutter run
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e837410-952b-4606-953d-3e04de6f8255" width="30%" style="margin: 10px;margin-bottom:10px"  />
-  <img src="https://github.com/user-attachments/assets/c391b9c9-da33-4955-a7cc-29479cdf1748" width="30%" style="margin: 10px;margin-bottom:10px" />
-  <img src="https://github.com/user-attachments/assets/f12234b6-3bf3-4659-8b28-dcaf19139ca1" width="30%" style="margin: 10px;margin-bottom:10px"/>
-  <br>
-  <img src="https://github.com/user-attachments/assets/b25e4b51-7fc3-40b4-840f-0b979af3844c" width="30%" style="margin: 10px;margin-bottom:10px"/>
-  <img src="https://github.com/user-attachments/assets/c2dd9400-fe2d-4d7a-ad87-8128e9b2920d" width="30%" style="margin: 10px;margin-bottom:10px"/>
-  <img src="https://github.com/user-attachments/assets/a6e1ca5c-072c-46e3-9bc7-415ba6116463" width="30%" style="margin: 10px;margin-bottom:10px"/>
+  <img src="https://github.com/user-attachments/assets/7b9736b9-de6f-4ad9-91e0-35f6552ce1a9" width="30%" style="margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/a047a191-b48a-4f25-8cd6-9326a069aec9" width="30%" style="margin: 5px;" />
+    <br>
+  <img src="https://github.com/user-attachments/assets/820ea03b-e816-4c1f-8cdb-f033c133836c" width="30%" style="margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/0d2e94c5-1546-4aa6-934b-14d67c33c021" width="30%" style="margin: 5px;" />
 </p>
+
 
 
 ## 📌 Observações
