@@ -60,8 +60,6 @@ flutter run
 </p>
 
 
-## 📌 Observações
-- Certifique-se de que seu ambiente Flutter está atualizado.
 
 💻 **OBRIGADO** 🚀
 
