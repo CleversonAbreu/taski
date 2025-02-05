@@ -47,6 +47,18 @@ flutter run
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e837410-952b-4606-953d-3e04de6f8255" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c391b9c9-da33-4955-a7cc-29479cdf1748" width="45%" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/f12234b6-3bf3-4659-8b28-dcaf19139ca1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b25e4b51-7fc3-40b4-840f-0b979af3844c" width="45%" />
+  <br>
+  <img src="https://github.com/user-attachments/assets/c2dd9400-fe2d-4d7a-ad87-8128e9b2920d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a6e1ca5c-072c-46e3-9bc7-415ba6116463" width="45%" />
+</p>
+
+
 ## 📌 Observações
 - Certifique-se de que seu ambiente Flutter está atualizado.
 
